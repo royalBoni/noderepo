@@ -1,0 +1,4 @@
+installing nodemon dependency: 
+
+installing as a dev dependency
+npm i nodemon -D or npm i nodemon --save-dev
